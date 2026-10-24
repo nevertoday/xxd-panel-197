@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 197｜Folk-art World Inside a Cage: places the theme of a photo inside a cage, so the cage is at once an object, a frame and a tiny world — people, scenes, objects or symbols are nested within it through shifts of scale, spatial nesting and symbolic substitution. Drawn in a flat, naive, warm new-folk-art hand: simple clear outlines, moderate detail, a few folk motifs, feathers, plants or auspicious objects, and two to four brightened colours from the photo such as warm red, coral, leaf green, lake teal, soft pink and pale gold on cream. The cage stays small in wide deliberate whitespace, with a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-197 or asks for a world-in-a-cage, container story or folk-art illustration from a photo.",
+  "short_description": "笼中世界新民艺：把照片的主题装进一只笼子里，用扁平稚拙的新民艺手绘和鲜活配色画出来",
+  "zh-CN": {
+    "name": "笼中世界新民艺",
+    "tagline": "把照片的主题装进一只笼子里，用扁平温暖的新民艺手绘画成一个小世界。",
+    "look": "原图的主题被装进一只笼子里：人物、场景、器物或象征元素嵌在笼内，笼子既是器物，也是画框，还是一个微缩小世界；大的场景可以缩小后放进去，形成“笼中有世界”的嵌套关系。画法是新民艺感的扁平手绘，造型简洁、稚拙、温暖，轮廓清楚，可以配少量纹样、羽毛、植物或吉祥物件。颜色取照片里 2 到 4 种鲜活的色，提亮后放在米白底上，如暖红、珊瑚橙、草木绿、湖水青、柔粉、浅金黄。笼子尺寸不大，四周大片留白，配几个安静的小字。",
+    "traits": ["笼中世界", "容器叙事", "新民艺手绘", "鲜活配色", "大片留白"],
+    "good": [
+      "主题明确、能浓缩成一个小世界的照片：一座小镇、一片花园、一个海港",
+      "带象征意味的人或动物：一只鸟、一个旅人、一只猫",
+      "想做文创插画、节日卡片或故事性海报的照片"
+    ],
+    "poor": [
+      "需要原样再现的照片：证件照、商品图、建筑实拍",
+      "不希望出现笼子意象的情况，因为每张图都会围绕笼子展开",
+      "想要写实画风、复杂透视或暗沉旧色调的需求"
+    ]
+  },
+  "en": {
+    "name": "Folk-art World Inside a Cage",
+    "tagline": "Puts the theme of a photo inside a cage and draws it as a small world in flat, warm folk-art style.",
+    "look": "The theme of your photo is placed inside a cage: people, scenes, objects or symbols are nested within it, so the cage is an object, a frame and a miniature world all at once; a large scene can be shrunk and put inside, creating a world within the cage. It is drawn in flat new-folk-art style, with simple, naive, warm shapes and clear outlines, plus a few folk patterns, feathers, plants or auspicious objects. Two to four lively colours from the photo are brightened and set on cream, such as warm red, coral orange, leaf green, lake teal, soft pink and pale gold. The cage stays fairly small, with wide whitespace around it and a few quiet words.",
+    "traits": ["World in a cage", "Container story", "New folk art", "Lively colour", "Wide whitespace"],
+    "good": [
+      "Photos with a clear theme that can be condensed into a small world: a small town, a garden, a harbour",
+      "People or animals with symbolic weight: a bird, a traveller, a cat",
+      "Photos you want as a gift-shop illustration, festive card or storytelling poster"
+    ],
+    "poor": [
+      "Photos that must be reproduced as they are: ID photos, product shots, architectural photography",
+      "Cases where you do not want a cage at all, since every image is built around one",
+      "Requests for realism, complex perspective or dark, aged colours"
+    ]
+  },
+  "ja": {
+    "name": "籠の中の世界を描く民芸イラスト",
+    "tagline": "写真のテーマを籠の中に入れ、平面的で温かな新民芸の手描きで小さな世界として描きます。",
+    "look": "写真のテーマを籠の中に収めます。人物、場面、道具、象徴的なものが籠の内側に入れ子になり、籠は器であり、額縁であり、小さな世界でもあります。大きな場面を縮めて中に入れ、「籠の中に世界がある」関係をつくることもあります。描き方は新民芸らしい平面的な手描きで、形はシンプルで素朴で温かく、輪郭ははっきりしています。少しの文様、羽根、植物、縁起物を添えることもあります。色は写真から生き生きした二から四色を取り、明るくしてクリーム色の地に置きます。暖かな赤、コーラルオレンジ、草木の緑、湖の青緑、柔らかなピンク、淡い金色などです。籠は大きすぎず、周りに大きな余白をとり、静かな文字を数語添えます。",
+    "traits": ["籠の中の世界", "器の物語", "新民芸の手描き", "生き生きした色", "広い余白"],
+    "good": [
+      "テーマがはっきりしていて小さな世界に凝縮できる写真：小さな町、庭、港",
+      "象徴的な意味を持つ人や動物：鳥、旅人、猫",
+      "雑貨のイラスト、季節のカード、物語のあるポスターにしたい写真"
+    ],
+    "poor": [
+      "そのまま再現する必要がある写真：証明写真、商品写真、建築写真",
+      "籠のモチーフを入れたくない場合（どの画像も籠を中心に組み立てられます）",
+      "写実的な画風、複雑な遠近、暗く古びた色調を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "새장 속 세계 민예 일러스트",
+    "tagline": "사진의 주제를 새장 안에 담아 평면적이고 따뜻한 신민예 손그림으로 작은 세계를 그립니다.",
+    "look": "사진의 주제를 새장 안에 담습니다. 인물, 장면, 물건, 상징 요소가 새장 안에 겹겹이 들어가, 새장은 물건이자 액자이자 작은 세계가 됩니다. 큰 장면을 줄여 넣어 ‘새장 속에 세계가 있는’ 관계를 만들기도 합니다. 그림은 신민예풍의 평면 손그림으로 형태가 단순하고 천진하며 따뜻하고 윤곽이 분명하며, 약간의 문양, 깃털, 식물, 길상물을 곁들일 수 있습니다. 색은 사진에서 생기 있는 두 가지에서 네 가지를 가져와 밝게 다듬어 미색 바탕에 놓습니다. 따뜻한 빨강, 코랄 오렌지, 풀빛 초록, 호수 청록, 부드러운 분홍, 연한 금색 같은 색입니다. 새장은 크지 않게 두고 둘레에 넓은 여백과 조용한 글자 몇 개를 둡니다.",
+    "traits": ["새장 속 세계", "그릇의 이야기", "신민예 손그림", "생기 있는 색", "넓은 여백"],
+    "good": [
+      "주제가 분명해 작은 세계로 압축할 수 있는 사진: 작은 마을, 정원, 항구",
+      "상징적 의미가 있는 사람이나 동물: 새, 여행자, 고양이",
+      "굿즈 일러스트, 명절 카드, 이야기가 있는 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "있는 그대로 재현해야 하는 사진: 증명사진, 상품 사진, 건축 사진",
+      "새장 이미지를 원하지 않는 경우(모든 그림이 새장을 중심으로 만들어집니다)",
+      "사실적인 화풍, 복잡한 원근, 어둡고 낡은 색조를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "عالم داخل قفص بأسلوب الفن الشعبي",
+    "tagline": "يضع موضوع الصورة داخل قفص ويرسمه عالماً صغيراً بأسلوب فن شعبي مسطح ودافئ.",
+    "look": "يوضع موضوع صورتك داخل قفص: يتداخل فيه الأشخاص أو المشاهد أو الأشياء أو الرموز، فيصير القفص أداةً وإطاراً وعالماً مصغراً في آن واحد؛ ويمكن تصغير مشهد كبير ووضعه في الداخل، فيتكون عالم داخل القفص. الرسم بأسلوب فن شعبي جديد مسطح، بأشكال بسيطة عفوية دافئة وحدود واضحة، مع قليل من الزخارف الشعبية أو الريش أو النباتات أو الأشياء الجالبة للحظ. تُؤخذ من الصورة لونان إلى أربعة ألوان حيوية وتُفتَّح فوق أرضية كريمية، مثل الأحمر الدافئ والبرتقالي المرجاني والأخضر العشبي وفيروزي البحيرة والوردي الناعم والذهبي الفاتح. يبقى القفص صغيراً نسبياً، مع فراغ واسع حوله وكلمات هادئة قليلة.",
+    "traits": ["عالم داخل قفص", "حكاية الوعاء", "فن شعبي جديد", "ألوان حيوية", "فراغ واسع"],
+    "good": [
+      "صور ذات موضوع واضح يمكن تكثيفه في عالم صغير: بلدة صغيرة، حديقة، ميناء",
+      "أشخاص أو حيوانات لها دلالة رمزية: طائر، مسافر، قطة",
+      "صور تريدها رسماً لمنتجات تذكارية أو بطاقة مناسبة أو ملصقاً يروي حكاية"
+    ],
+    "poor": [
+      "صور يجب أن تُعاد كما هي: صور الهوية، صور المنتجات، التصوير المعماري",
+      "حين لا تريد ظهور قفص أصلاً، لأن كل صورة تُبنى حوله",
+      "طلب أسلوب واقعي أو منظور معقد أو ألوان داكنة عتيقة"
+    ]
+  }
+}
